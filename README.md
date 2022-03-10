@@ -2,8 +2,15 @@
 
 REST-Rant is an app where users can review restaurants.
 
-As a trucker I need to move material such as :asphalt, type 2(dirt), cold mix (dried asphalt), rocks and boulders; to be able to do my job. 
+CSS Frameworks: Bootstrap
 
+Stack: MongoDB, Express, NodeJS
+
+Server-Side Rendering: JSX
+
+Node Modules: method-override, dotenv, express-react-views
+
+These are the Routes
 
 | Method|   Path   |         Purpose       |
 | :---  |  :----:  |    ---------------:   |
@@ -18,3 +25,14 @@ As a trucker I need to move material such as :asphalt, type 2(dirt), cold mix (d
 |  Post | /places/:id/rant|         Create a rant (comment) about a particular place |
 | Delete| /places/:id/rant/:rantld| Delete a rant (comment) about a particular place |
 |  Get  |     *    |                404 page (matches any route not defined above) |
+
+----------------------------------------------------------------------------------------
+
+User Stories
+
+I will update this section
+
+Wireframes
+
+I will update this section
+
