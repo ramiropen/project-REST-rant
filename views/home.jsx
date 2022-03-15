@@ -11,7 +11,7 @@ function home () {
             <main>
     <h1>HOME</h1>
     <div>
-      <img src="/images/water.jpg" alt="waterfall" />
+      <img src="/public/images/water.jpg" alt="waterfall" />
       <div>
         Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on <a href="UNSPLASH_LINK">Unsplash</a>
       </div>

@@ -6,7 +6,7 @@
 // })
 // -----------------------------------------------
 
-// step 2
+
 // app.listen(3000)
 
 // require('dotenv').config()
@@ -24,7 +24,7 @@
 // app.listen(process.env.PORT)
 // -----------------------------------------------------
 
-// step 3
+
 // require('dotenv').config()
 // const express = require('express')
 // const app = express()
@@ -40,7 +40,7 @@
 // app.listen(process.env.PORT)
 // -------------------------------------------------------
 
-// step 4
+
 // require('dotenv').config()
 // const express = require('express')
 // const app = express()
@@ -78,8 +78,6 @@
 
 // app.listen(process.env.PORT);
 // ------------------------------------------------
-
-// part 6
 
 // Modules and Globals
 require("dotenv").config();

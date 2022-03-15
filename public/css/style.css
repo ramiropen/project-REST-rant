@@ -1,45 +1,46 @@
-h1 {
+body {
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+  main {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: white;
+  }
+  
+  h1 {
     text-align: center;
     color: cornflowerblue;
-}
-
-img {
-    width: 500px;
-    height: 500px;
-}
-
-nav {
+  }
+  
+  img {
+    width: 40vw;
+    height: 40vh;
+  }
+  
+  nav {
     background-color: cornflowerblue;
     padding: 10px;
-}
-
-nav ul {
+  }
+  
+  nav ul {
     list-style-type: none;
     margin: 0;
-}
-
-nav li {
+  }
+  
+  nav li {
     display: inline;
     margin-right: 25px;
-}
-
-nav a {
+  }
+  
+  nav a {
     color: white;
     font-size: 1.5em;
-}
-
-nav a:hover {
+    text-decoration: none;
+  }
+  
+  nav a:hover {
     color: pink;
     text-decoration: none;
-}
-
-body {
-  background-color: lightblue;
-  text-align: center;
-}
-
-main {
-  margin-right: 20px;
-  margin-left: 20px;
-  background-color: white;
-}
+  }
