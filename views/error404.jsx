@@ -23,10 +23,7 @@ function error404 () {
           <main>
               <h1>404: PAGE NOT FOUND</h1>
               <p>Oops, sorry, we can't find this page!</p>
-              <img src="\images\kiwi.jpg" alt="kiwi"/>
-              <div>
-                Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on <a href="UNSPLASH_LINK">Unsplash</a>
-              </div>
+              <img src="/images/bird.jpg" alt="Bird" />
           </main>
       </Def>
     )
